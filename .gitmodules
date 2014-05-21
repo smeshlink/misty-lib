@@ -1,6 +1,9 @@
 [submodule "misty-js"]
 	path = misty-js
 	url = git@github.com:smeshlink/misty-js.git
-[submodule "Misty4J"]
-	path = Misty4J
-	url = git@github.com:smeshlink/Misty4J.git
+[submodule "misty4j"]
+	path = misty4j
+	url = git@github.com:smeshlink/misty4j.git
+[submodule "Misty.NET"]
+	path = Misty.NET
+	url = git@github.com:smeshlink/Misty.NET.git
